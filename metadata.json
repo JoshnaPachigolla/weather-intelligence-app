@@ -1,7 +1,10 @@
 {
   "name": "Weather Intelligence",
   "description": "Responsive real-time weather intelligence dashboard with 7-day forecast and smart lifestyle recommendations powered by Open-Meteo.",
-  "requestFramePermissions": ["geolocation"],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
 }
-
